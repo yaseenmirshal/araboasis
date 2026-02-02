@@ -5,7 +5,7 @@ import Image from "next/image";
 import Services from "@/app/Components/Services";
 import AOS from "aos";
 import "aos/dist/aos.css";
-import About from "./About";
+
 
 export default function Herosection() {
   const wallpapers = [
