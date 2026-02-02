@@ -80,7 +80,7 @@ export default function Contact() {
                   PHONE NUMBER
                 </p>
                 <p className="text-lg font-medium text-[#1a1a1a]">
-                  +966 XX XXX XXXX
+                  +966 56 354 4119
                 </p>
               </div>
 
@@ -97,7 +97,7 @@ export default function Contact() {
                   EMAIL ADDRESS
                 </p>
                 <p className="text-lg font-medium text-[#1a1a1a]">
-                  info@araoasis.com
+                  info@araboasis-const.com
                 </p>
               </div>
 
