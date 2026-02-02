@@ -104,7 +104,7 @@ export default function Footer() {
           {/* Copyright */}
           <p className="text-gray-400 text-sm tracking-wide leading-relaxed">
             © 2025,RanzomTech. MADE WITH PASSION
-            <span className="ml-1 text-[#D1A875]">RANZOM.</span>
+            <span className="ml-1 text-green-500">RANZOM.</span>
           </p>
 
           {/* Newsletter */}
@@ -115,7 +115,7 @@ export default function Footer() {
               className="w-full py-4 px-4 bg-[#2A2B35] rounded-full text-gray-300 text-sm outline-none"
             />
 
-            <button className="absolute right-2 top-1/2 -translate-y-1/2 w-12 h-12 bg-[#D1A875] text-black rounded-full flex items-center justify-center">
+            <button className="absolute right-2 top-1/2 -translate-y-1/2 w-12 h-12 bg-green-500 text-black rounded-full flex items-center justify-center">
               ➤
             </button>
           </div>
