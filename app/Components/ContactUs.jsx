@@ -117,7 +117,7 @@ export default function Contact() {
 
           {/* RIGHT – FORM */}
           <div
-            data-aos="fade-left"
+            data-aos="fade-right"
             className="
               bg-white border border-[#d7f2d7]
               shadow-xl p-14

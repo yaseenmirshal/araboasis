@@ -36,7 +36,7 @@ export default function About() {
         </div>
 
         {/* CONTENT */}
-        <div data-aos="fade-left">
+        <div data-aos="fade-right">
           <p className="text-[12px] tracking-[5px] text-green-700 mb-4">
             ABOUT ARAB OASIS
           </p>
