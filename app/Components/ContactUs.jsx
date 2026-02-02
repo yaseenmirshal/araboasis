@@ -120,7 +120,7 @@ export default function Contact() {
             data-aos="fade-right"
             className="
               bg-white border border-[#d7f2d7]
-              shadow-xl p-14
+              shadow-xl p-8
             "
           >
             <h3 className="text-xl font-semibold mb-8 text-[#1a1a1a]">
